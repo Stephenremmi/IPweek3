@@ -4,4 +4,5 @@ Delani studio is a website that contains information about Delani Studio and its
 ## Author
 - Stephen Remmi
 
+## Description
 
