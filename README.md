@@ -34,7 +34,7 @@ https://stephenremmi.github.io/IPweek3/
 - jQuery
 
 ## Support and Contacts
-
+For more info , do not hesitate to contact the webmaster on stephenremmi@gmail.com
 
 ## License
 
