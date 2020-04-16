@@ -21,3 +21,16 @@ https://stephenremmi.github.io/IPweek3/
 - Access to internet connectivity.
 - Click to the live site
 - Search and open the webpage in Google search engine using the above URL link
+
+## Languages used
+- HTML5
+- CSS3
+- jQuery 3.4.1
+
+## Tools used
+- Google fonts
+- SweetAlert
+- Mailchimp
+
+## Support and Contacts
+
