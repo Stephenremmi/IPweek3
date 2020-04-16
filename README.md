@@ -25,12 +25,13 @@ https://stephenremmi.github.io/IPweek3/
 ## Languages used
 - HTML5
 - CSS3
-- jQuery 3.4.1
+- Javascript
 
 ## Tools used
 - Google fonts
 - SweetAlert
 - Mailchimp
+- jQuery
 
 ## Support and Contacts
 
