@@ -1,9 +1,18 @@
-.container{
-  position: relative;
-  text-align: center;
-  color: #fff;
-  width: 1000;
-}
+
+      #logo{
+        margin-top: 14%;
+    }
+    #welcome{
+        margin-top: 3%;
+        }
+    #slogan{
+        margin-top: 2%;
+    }
+    #mouse{
+        margin-top: 11%;
+    }
+  
+
 .h1{
   position: absolute;
   top: 55%;
@@ -29,6 +38,7 @@
 .img3{
   position: relative;
   top: 100px;
+  cursor: pointer;
 
 }  
 
@@ -57,17 +67,19 @@
   position: absolute;
   left:20%;
   text-align: center;
- 
+ cursor: pointer;
 }
 .icon2{
   position: absolute;
   left : 45%;
   text-align: center;
+  cursor: pointer;
 }
 .icon3{
   position: absolute;
   right:10% ;
   text-align: center;
+  cursor: pointer;
 
 }
 .p2{
@@ -79,38 +91,7 @@
 .h5{
   text-align: center;
 }
-.img4{
-  position: absolute;
-  left: 35%;
-}
-.img5{
-  position: absolute;
-  left: 45%;
-}
-.img6{
-  position: absolute;
-  left: 55%;
-}
-.img7{
-  position: absolute;
-  left: 65%;
-}
-.img8{
-  position: absolute;
-  left: 35%;
-}
-.img9{
-  position: absolute;
-  left: 45%;
-}
-.img10{
-  position: absolute;
-  left: 55%;
-}
-.img11{
-  position: absolute;
-  left: 65%;
-}
+
 #name{
   position: absolute;
   left: 18%;
@@ -118,7 +99,7 @@
 }
 #email{
   position: absolute;
-  left: 50%;
+  left: 10%;
   background-color: none;
   width: 30%;
 }
@@ -127,55 +108,64 @@
 }
 
 
-.h6{
+#h6{
   text-align: center;
   color: #fff;
   font-weight: 600;
   font-family: 'Fredoka One', cursive;
 }
-#textarea{
-  position: absolute;
-  left: 18%;
-  width: 62%;
-  height: 30%;
-}
+
 .img12{
   position: absolute;
   left:25% ;
+  cursor: pointer;
 }
 .img13{
   position: absolute;
   left:30% ;
+  cursor: pointer;
 }
 .img14{
   position: absolute;
   left:35% ;
+  cursor: pointer;
 }
 .img15{
   position: absolute;
   left:40% ;
+  cursor: pointer;
 }
 .img16{
   position: absolute;
   left:45% ;
+  cursor: pointer;
 }
 .img17{
   position: absolute;
   left:50% ;
+  cursor: pointer;
 }
 .img18{
   position: absolute;
   left:55% ;
+  cursor: pointer;
 }
 .img19{
   position: absolute;
   left:60% ;
+  cursor: pointer;
 }
 .img20{
   position: absolute;
   left:65% ;
+  cursor: pointer;
 }
-.delani2019{
+.img21{
+  position: absolute;
+  left:70% ;
+  cursor: pointer;
+}
+.delani2020{
   text-align: center;
 }
 .p3{
@@ -183,6 +173,7 @@
   left:0%;
   text-align: center;
   display: none;
+  cursor: pointer;
   
 }
 .p4{
@@ -190,18 +181,63 @@
   left : 33%;
   text-align: center;
   display: none;
+  cursor: pointer;
 }
 .p5{
   position: absolute;
   right:0%;
   text-align: center;
   display: none;
+  cursor: pointer;
 }
-.form{
-  background-image: url(../assets/backgrounds/c_image.jpg);
-  background-repeat: no-repeat;
-  background-size: 90%;
-  background-position: center;
-  height: 650px; 
+
+#email{
+  width: 30%;
+  background: transparent;
+  right: 60%;
+}
+#names{
+  position: absolute;
+  left: 35%;
+  background: transparent;
+}
+
+.portfolio :hover{
+  background-color: white;
+  opacity: 0.2;
+}
+.jim,.polygon,.ontario,.dark,.elena,.form,.burned,.giraffe{
+  margin-top: -120px;
+  position: relative;
+  display: none;
+}
+#contactsTitle{
+  margin-top: 20px;
+}
+#names,#email,#textarea{
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 0;
+  color: white;
+  width:70% ;
+}
+input[type="text"]::-webkit-input-placeholder {
+  color:white;
+}
+input[type="email"]::-webkit-input-placeholder {
+  color:white;
+}
+textarea.form-control::placeholder {
+  color:white;
+}
+#textArea{
+  margin-top: 3px;
+  background: transparent;
+  left: 10%;
+}
+#sendButton{
+  padding-top: 4px;
+  background: transparent;
+  color: white;
 }
 
