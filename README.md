@@ -13,4 +13,5 @@ Then they help translate them into effective and elegant solutions.
 These lines of code depend of jquery and may not be functional if removed. The user must know that they don't require anything apart from intenet connection to access this site.
 These codes do not contain any for of bugs
 
-## Link to the live site
+## Link to the live site:
+https://stephenremmi.github.io/IPweek3/
