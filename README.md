@@ -20,4 +20,4 @@ https://stephenremmi.github.io/IPweek3/
 - A device that access internet.
 - Access to internet connectivity.
 - Click to the live site
-- Fill in the form appropriately
+- Search and open the webpage in Google search engine using the above URL link
