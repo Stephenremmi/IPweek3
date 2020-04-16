@@ -15,3 +15,9 @@ These codes do not contain any for of bugs
 
 ## Link to the live site:
 https://stephenremmi.github.io/IPweek3/
+
+## Requirements and installation
+- A device that access internet.
+- Access to internet connectivity.
+- Click to the live site
+- Fill in the form appropriately
