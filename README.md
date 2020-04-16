@@ -10,5 +10,5 @@ They approach unites design, development an product management to create excepti
 They start each project by understanding your business goals, there's needs and the the product requirements.
 Then they help translate them into effective and elegant solutions.
 
-These lines of code depend of jquery and may not be functional if removed. The user must know that they don't require anything apart from interet connection to access this site.
+These lines of code depend of jquery and may not be functional if removed. The user must know that they don't require anything apart from intenet connection to access this site.
 These codes do not contain any for of bugs
